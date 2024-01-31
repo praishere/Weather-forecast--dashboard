@@ -30,9 +30,9 @@ Follow these instructions to run the project locally on your machine.
 -Toggle between Celsius and Fahrenheit units.
 -Displays temperature, humidity, wind speed, and weather description.
 
-**CONTRIBUTING**
+**CONTRIBUTING:**
 Feel free to contribute to the project by opening issues or submitting pull requests.
 
-**LICENSE**
+**LICENSE:**
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 (Feel free to customize the content based on your specific project details. Make sure to include accurate information about prerequisites, installation steps, usage, features, and license information)
