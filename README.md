@@ -1,6 +1,8 @@
 # Weather Forecast App
 
 This is a simple weather forecast application built with Reactjs, CsS, Tailwind Css, Javascript, HTML.
+#When using the website:
+Make the first character capital, and for accurate results type complete name (e.g: New Delhi)
 
 ## Getting Started
 
