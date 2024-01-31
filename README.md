@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-This is a simple weather forecast application built with React.
+This is a simple weather forecast application built with Reactjs, CsS, Tailwind Css, Javascript, HTML.
 
 ## Getting Started
 
